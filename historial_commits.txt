@@ -1,3 +1,4 @@
+* 2b014ac Historia de commits añadida
 * 4c1e475 Completadas funciones de rectángulo y triángulo
 * 3f2ec42 Añadido color morado y función para dibujar círculos
 * a88b7a5 Código base del videojuego Paint
